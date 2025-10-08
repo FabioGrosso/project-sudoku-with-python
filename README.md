@@ -171,7 +171,7 @@ sudoku(5,1,4) sudoku(5,2,2) sudoku(5,3,6) sudoku(5,4,8) sudoku(5,5,5) sudoku(5,6
 sudoku(6,1,7) sudoku(6,2,1) sudoku(6,3,3) sudoku(6,4,9) sudoku(6,5,2) sudoku(6,6,4) sudoku(6,7,8) sudoku(6,8,5) sudoku(6,9,6).
 sudoku(7,1,9) sudoku(7,2,6) sudoku(7,3,1) sudoku(7,4,5) sudoku(7,5,3) sudoku(7,6,7) sudoku(7,7,2) sudoku(7,8,8) sudoku(7,9,4).
 sudoku(8,1,2) sudoku(8,2,8) sudoku(8,3,7) sudoku(8,4,4) sudoku(8,5,1) sudoku(8,6,9) sudoku(8,7,6) sudoku(8,8,3) sudoku(8,9,5).
-sudoku(9,1,3) sudoku(9,2,4) sudoku(9,3,5) sudoku(9,4,2) sudoku(9,5,8) sudoku(9,6,6) sudoku(9,7,1) sudoku(9,8,7) sudoku(9,9,9).
+sudoku(9,1,3) sudoku(9,2,4) sudoku(9,3,5) sudoku(9,4,2) sudoku(9,5,8) sudoku(9,6,6) sudoku(9,7,1) sudoku(9,8,7) sudoku(9,9,9)
 ```
 representing the solution displayed at the beginning of this page, then the attribute ```board``` should contain the following dictionary
 ```python
