@@ -17,7 +17,7 @@ Input:                                               Output:
 The dash symbol "```-```" is used to represent that in a position there is no number.
 
 ## Formalities.
-You can work on the solution alone or in groups of two people. Different groups have to submit different solutions. In case of plagiarism, all groups involved will fail the project.
+You can work on the solution alone or in groups of three people. Different groups have to submit different solutions. In case of plagiarism, all groups involved will fail the project.
 
 Your code will be autograded for technical correctness. However, the correctness of your implementation -- not the autograder's judgments -- will be the final judge of your score. If necessary, we will review and grade assignments individually to ensure that you receive due credit for your work.
 
