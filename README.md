@@ -310,7 +310,7 @@ python autograder.py --question=4
 ```
 
 
-## Question 5: Reading Sudokus (10 points)
+## Question 5: Reading Sudokus (not required)
 
 Fill now the class method 
 ```python
@@ -343,11 +343,11 @@ python autograder.py --question=5
 ```
 
 
-## Question 6: Solving Sudokus with custom input (20 points)
+## Question 6: Solving Sudokus with custom input (not required)
 
 We will now build the third iteration of the sudoku solver. This solver reads the input board in the format specified in the previous question and outputs the solution in the same format illustrated above. Create a file called ```sudoku6.py``` by copying ```sudoku4.py```. We will modify it to read the input in the required format.
 
-### Question 6a: The Context Class (10 points)
+### Question 6a: The Context Class (not required)
 We start by creating a class ```Context``` in the file ```sudoku6.py```.
 ```python
 class Context:
@@ -367,7 +367,7 @@ You can check your implementation by running the following command:
 python autograder.py --question=6a
 ```
 
-### Question 6b: Putting all together (10 points)
+### Question 6b: Putting all together (not required)
 
 It is time to put all our progress together and complete the solver. Add a file ```sudoku_py.lp``` with the bridge rules between Python and the logic programming. These rules should produce facts of the form ```initial(a,b,c)``` for each cell ```(a,b)``` that has a value ```c```. This uses the method ```initial``` of the class ```Context``` to obtain the list of facts. We need to modify the file ```sudoku6.py``` to use our ```Context``` object. The lecture slides explain in more detail how to do this.
 
